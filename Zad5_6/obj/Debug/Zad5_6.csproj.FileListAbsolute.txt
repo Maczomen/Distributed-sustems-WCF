@@ -1,0 +1,10 @@
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\bin\Zad5_6.dll.config
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\bin\Zad5_6.dll
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\bin\Zad5_6.pdb
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\bin\IZadanie5.dll
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\bin\IZadanie6.dll
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\obj\Debug\Zad5_6.csproj.AssemblyReference.cache
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\obj\Debug\Zad5_6.csproj.CoreCompileInputs.cache
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\obj\Debug\Zad5_6.csproj.CopyComplete
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\obj\Debug\Zad5_6.dll
+D:\180542\_WCF_2_lab_files\Lab5\Zad5_6\obj\Debug\Zad5_6.pdb

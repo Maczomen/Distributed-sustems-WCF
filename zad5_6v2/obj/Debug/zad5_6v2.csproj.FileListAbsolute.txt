@@ -1,0 +1,9 @@
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\bin\zad5_6v2.dll.config
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\bin\zad5_6v2.dll
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\bin\zad5_6v2.pdb
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\obj\Debug\zad5_6v2.csproj.CoreCompileInputs.cache
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\obj\Debug\zad5_6v2.dll
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\obj\Debug\zad5_6v2.pdb
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\bin\IZadanie5.dll
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\bin\IZadanie6.dll
+D:\180542\_WCF_2_lab_files\Lab5\zad5_6v2\obj\Debug\zad5_6v2.csproj.CopyComplete
