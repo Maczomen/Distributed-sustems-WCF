@@ -1,0 +1,6 @@
+D:\180542\KRS6\Zad3\bin\Zad3.dll.config
+D:\180542\KRS6\Zad3\bin\Zad3.dll
+D:\180542\KRS6\Zad3\bin\Zad3.pdb
+D:\180542\KRS6\Zad3\obj\Debug\Zad3.csproj.CoreCompileInputs.cache
+D:\180542\KRS6\Zad3\obj\Debug\Zad3.dll
+D:\180542\KRS6\Zad3\obj\Debug\Zad3.pdb

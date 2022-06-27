@@ -1,0 +1,6 @@
+D:\180542\KRS6\KRS6\bin\Debug\KRS6.exe.config
+D:\180542\KRS6\KRS6\bin\Debug\KRS6.exe
+D:\180542\KRS6\KRS6\bin\Debug\KRS6.pdb
+D:\180542\KRS6\KRS6\obj\Debug\Zad1.csproj.CoreCompileInputs.cache
+D:\180542\KRS6\KRS6\obj\Debug\KRS6.exe
+D:\180542\KRS6\KRS6\obj\Debug\KRS6.pdb

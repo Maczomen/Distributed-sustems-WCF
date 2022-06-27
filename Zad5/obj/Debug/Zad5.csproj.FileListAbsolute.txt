@@ -1,0 +1,7 @@
+D:\180542\KRS6\Zad5\bin\Debug\Zad5.exe.config
+D:\180542\KRS6\Zad5\bin\Debug\Zad5.exe
+D:\180542\KRS6\Zad5\bin\Debug\Zad5.pdb
+D:\180542\KRS6\Zad5\obj\Debug\Zad5.csproj.CoreCompileInputs.cache
+D:\180542\KRS6\Zad5\obj\Debug\Zad5.exe
+D:\180542\KRS6\Zad5\obj\Debug\Zad5.pdb
+D:\180542\KRS6\Zad5\obj\Debug\Zad5.csproj.AssemblyReference.cache
