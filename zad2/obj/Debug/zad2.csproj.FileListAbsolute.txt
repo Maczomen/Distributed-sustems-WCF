@@ -1,0 +1,8 @@
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\bin\Debug\zad2.exe.config
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\bin\Debug\zad2.exe
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\bin\Debug\zad2.pdb
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\bin\Debug\KSR_WCF1.dll
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\obj\Debug\zad2.csproj.CopyComplete
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\obj\Debug\zad2.exe
+D:\180542\_WCF_1_lab_files\_WCF_1_lab_files\Lab4\zad2\obj\Debug\zad2.pdb
